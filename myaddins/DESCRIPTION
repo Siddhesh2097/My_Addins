@@ -1,0 +1,11 @@
+Package: myaddins
+Title: To create custom addins for RStudio
+Version: 0.0.1
+Authors@R: 
+    person("Siddhesh", "Pujari", , "siddheshpujari25@gmail.com", role = c("aut", "cre"))
+Description: This package helps in creating custom addins for my RStudio.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3

@@ -1,0 +1,9 @@
+Name: Use daytime theme
+Description: Use daytime theme in RStudio: Solarized Light.
+Binding: use_daytime_theme
+Interactive: false
+
+Name: Use nighttime theme
+Description: Use nighttime theme in RStudio: Solarized Dark.
+Binding: use_nighttime_theme
+Interactive: false
